@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-997738963f.bcpjob.cn/sitemap.xml
